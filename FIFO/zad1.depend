@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1621444997 source:d:\mati\moje programy\zad1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1621584790 source:d:\mati\moje programy\lab5\zad1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1621584790 source:d:\mati\moje programy\laboratoria\kolejki\fifo\main.c
+	<stdio.h>
+	<stdlib.h>
+
